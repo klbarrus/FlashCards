@@ -1,0 +1,482 @@
+<flashcards>
+	<card id = "1">
+		<character>
+			<simplified>篇</simplified>
+		</character>
+		<pinyin>piān</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>(essays, articles, etc.)</meaning>
+		</definition>
+	</card>
+	<card id = "2">
+		<character>
+			<simplified>日记</simplified>
+		</character>
+		<pinyin>rìjì</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>diary</meaning>
+		</definition>
+	</card>
+	<card id = "3">
+		<character>
+			<simplified>早上</simplified>
+		</character>
+		<pinyin>zǎoshang</pinyin>
+		<definition>
+			<grammar>t</grammar>
+			<meaning>morning</meaning>
+		</definition>
+	</card>
+	<card id = "4">
+		<character>
+			<simplified>起床</simplified>
+		</character>
+		<pinyin>qǐchuáng</pinyin>
+		<definition>
+			<grammar>vo</grammar>
+			<meaning>to get up</meaning>
+		</definition>
+	</card>
+	<card id = "5">
+		<character>
+			<simplified>床</simplified>
+		</character>
+		<pinyin>chuáng</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>bed</meaning>
+		</definition>
+	</card>
+	<card id = "6">
+		<character>
+			<simplified>洗澡</simplified>
+		</character>
+		<pinyin>xǐzǎo</pinyin>
+		<definition>
+			<grammar>vo</grammar>
+			<meaning>to take a bath/shower</meaning>
+		</definition>
+	</card>
+	<card id = "7">
+		<character>
+			<simplified>早饭</simplified>
+		</character>
+		<pinyin>zǎofàn</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>breakfast</meaning>
+		</definition>
+	</card>
+	<card id = "8">
+		<character>
+			<simplified>一边。。。一边</simplified>
+		</character>
+		<pinyin>yìbiān…yìbiān</pinyin>
+		<definition>
+			<grammar></grammar>
+			<meaning>(parallel construction meaning simultaneous actions)</meaning>
+		</definition>
+	</card>
+	<card id = "9">
+		<character>
+			<simplified>教室</simplified>
+		</character>
+		<pinyin>jiàoshì</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>classroom</meaning>
+		</definition>
+	</card>
+	<card id = "10">
+		<character>
+			<simplified>发音</simplified>
+		</character>
+		<pinyin>fāyīn</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>pronunciation</meaning>
+		</definition>
+	</card>
+	<card id = "11">
+		<character>
+			<simplified>新</simplified>
+		</character>
+		<pinyin>xīn</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>new</meaning>
+		</definition>
+	</card>
+	<card id = "12">
+		<character>
+			<simplified>电脑</simplified>
+		</character>
+		<pinyin>diànnǎo</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>computer</meaning>
+		</definition>
+	</card>
+	<card id = "13">
+		<character>
+			<simplified>脑</simplified>
+		</character>
+		<pinyin>nǎo</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>brain</meaning>
+		</definition>
+	</card>
+	<card id = "14">
+		<character>
+			<simplified>中午</simplified>
+		</character>
+		<pinyin>zhōngwǔ</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>noon</meaning>
+		</definition>
+	</card>
+	<card id = "15">
+		<character>
+			<simplified>餐厅</simplified>
+		</character>
+		<pinyin>cāntīng</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>dining room; cafeteria</meaning>
+		</definition>
+	</card>
+	<card id = "16">
+		<character>
+			<simplified>午饭</simplified>
+		</character>
+		<pinyin>wǔfàn</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>lunch; midday meal</meaning>
+		</definition>
+	</card>
+	<card id = "17">
+		<character>
+			<simplified>报</simplified>
+		</character>
+		<pinyin>bào</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>newspaper</meaning>
+		</definition>
+	</card>
+	<card id = "18">
+		<character>
+			<simplified>宿舍</simplified>
+		</character>
+		<pinyin>sùshè</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>dormitory</meaning>
+		</definition>
+	</card>
+	<card id = "19">
+		<character>
+			<simplified>到</simplified>
+		</character>
+		<pinyin>dào</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to arrive</meaning>
+		</definition>
+	</card>
+	<card id = "20">
+		<character>
+			<simplified>那儿</simplified>
+		</character>
+		<pinyin>nàr</pinyin>
+		<definition>
+			<grammar>pr</grammar>
+			<meaning>there</meaning>
+		</definition>
+	</card>
+	<card id = "21">
+		<character>
+			<simplified>。。。的时候</simplified>
+		</character>
+		<pinyin>…de shíhou</pinyin>
+		<definition>
+			<grammar></grammar>
+			<meaning>when…; at the time of… </meaning>
+		</definition>
+	</card>
+	<card id = "22">
+		<character>
+			<simplified>正在</simplified>
+		</character>
+		<pinyin>zhèngzài</pinyin>
+		<definition>
+			<grammar>adv</grammar>
+			<meaning>in the middle of (doing something)</meaning>
+		</definition>
+	</card>
+	<card id = "23">
+		<character>
+			<simplified>以前</simplified>
+		</character>
+		<pinyin>yǐqián</pinyin>
+		<definition>
+			<grammar>t</grammar>
+			<meaning>before; ago; previously</meaning>
+		</definition>
+	</card>
+	<card id = "24">
+		<character>
+			<simplified>告诉</simplified>
+		</character>
+		<pinyin>gàosu</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to tell</meaning>
+		</definition>
+	</card>
+	<card id = "25">
+		<character>
+			<simplified>已经</simplified>
+		</character>
+		<pinyin>yǐjīng</pinyin>
+		<definition>
+			<grammar>adv</grammar>
+			<meaning>already</meaning>
+		</definition>
+	</card>
+	<card id = "26">
+		<character>
+			<simplified>封</simplified>
+		</character>
+		<pinyin>fēng</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>(letters)</meaning>
+		</definition>
+	</card>
+	<card id = "27">
+		<character>
+			<simplified>信</simplified>
+		</character>
+		<pinyin>xìn</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>letter (mail)</meaning>
+		</definition>
+	</card>
+	<card id = "28">
+		<character>
+			<simplified>最近</simplified>
+		</character>
+		<pinyin>zuìjìn</pinyin>
+		<definition>
+			<grammar>tw</grammar>
+			<meaning>recently</meaning>
+		</definition>
+	</card>
+	<card id = "29">
+		<character>
+			<simplified>最</simplified>
+		</character>
+		<pinyin>zuì</pinyin>
+		<definition>
+			<grammar>adv</grammar>
+			<meaning>(superlative degree; most, -est)</meaning>
+		</definition>
+	</card>
+	<card id = "30">
+		<character>
+			<simplified>近</simplified>
+		</character>
+		<pinyin>jìn</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>near</meaning>
+		</definition>
+	</card>
+	<card id = "31">
+		<character>
+			<simplified>学期</simplified>
+		</character>
+		<pinyin>xuéqī</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>school term; semester/quarter</meaning>
+		</definition>
+	</card>
+	<card id = "32">
+		<character>
+			<simplified>除了。。。以外</simplified>
+		</character>
+		<pinyin>chúle… yǐwài</pinyin>
+		<definition>
+			<grammar>conj</grammar>
+			<meaning>in addition to; besides</meaning>
+		</definition>
+	</card>
+	<card id = "33">
+		<character>
+			<simplified>专业</simplified>
+		</character>
+		<pinyin>zhuānyè</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>major (in college); specialty</meaning>
+		</definition>
+	</card>
+	<card id = "34">
+		<character>
+			<simplified>会</simplified>
+		</character>
+		<pinyin>huì</pinyin>
+		<definition>
+			<grammar>av</grammar>
+			<meaning>can; to know how to</meaning>
+		</definition>
+	</card>
+	<card id = "35">
+		<character>
+			<simplified>开始</simplified>
+		</character>
+		<pinyin>kāishǐ</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>in the beginning</meaning>
+		</definition>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to begin; to start</meaning>
+		</definition>
+	</card>
+	<card id = "36">
+		<character>
+			<simplified>习惯</simplified>
+		</character>
+		<pinyin>xíguàn</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to be accustomed to</meaning>
+		</definition>
+		<definition>
+			<grammar>adj/n</grammar>
+			<meaning>habit</meaning>
+		</definition>
+	</card>
+	<card id = "37">
+		<character>
+			<simplified>后来</simplified>
+		</character>
+		<pinyin>hòulái</pinyin>
+		<definition>
+			<grammar>t</grammar>
+			<meaning>later</meaning>
+		</definition>
+	</card>
+	<card id = "38">
+		<character>
+			<simplified>清楚</simplified>
+		</character>
+		<pinyin>qīngchu</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>clear</meaning>
+		</definition>
+	</card>
+	<card id = "39">
+		<character>
+			<simplified>进步</simplified>
+		</character>
+		<pinyin>jìnbù</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to make progress</meaning>
+		</definition>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>progress</meaning>
+		</definition>
+	</card>
+	<card id = "40">
+		<character>
+			<simplified>音乐会</simplified>
+		</character>
+		<pinyin>yīnyuèhuì</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>concert</meaning>
+		</definition>
+	</card>
+	<card id = "41">
+		<character>
+			<simplified>希望</simplified>
+		</character>
+		<pinyin>xīwàng</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to hope</meaning>
+		</definition>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>hope</meaning>
+		</definition>
+	</card>
+	<card id = "42">
+		<character>
+			<simplified>能</simplified>
+		</character>
+		<pinyin>néng</pinyin>
+		<definition>
+			<grammar>av</grammar>
+			<meaning>can; be able to</meaning>
+		</definition>
+	</card>
+	<card id = "43">
+		<character>
+			<simplified>用</simplified>
+		</character>
+		<pinyin>yòng</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to use</meaning>
+		</definition>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>use</meaning>
+		</definition>
+	</card>
+	<card id = "44">
+		<character>
+			<simplified>笑</simplified>
+		</character>
+		<pinyin>xiào</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to laugh; to laugh at</meaning>
+		</definition>
+	</card>
+	<card id = "45">
+		<character>
+			<simplified>祝</simplified>
+		</character>
+		<pinyin>zhù</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to express good wishes</meaning>
+		</definition>
+	</card>
+	<card id = "46">
+		<character>
+			<simplified>意文</simplified>
+		</character>
+		<pinyin>yìwén</pinyin>
+		<definition>
+			<grammar>N</grammar>
+			<meaning>(given name)</meaning>
+		</definition>
+	</card>
+</flashcards>

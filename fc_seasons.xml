@@ -1,0 +1,42 @@
+<flashcards>
+	<card id = "1">
+		<character>
+			<simplified>春天</simplified>
+		</character>
+		<pinyin>chūntiān</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>spring</meaning>
+		</definition>
+	</card>
+	<card id = "2">
+		<character>
+			<simplified>夏天</simplified>
+		</character>
+		<pinyin>xìatiān</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>summer</meaning>
+		</definition>
+	</card>
+	<card id = "3">
+		<character>
+			<simplified>秋天</simplified>
+		</character>
+		<pinyin>qiūtiān</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>autumn; fall</meaning>
+		</definition>
+	</card>
+	<card id = "4">
+		<character>
+			<simplified>冬天</simplified>
+		</character>
+		<pinyin>dōngtiān</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>winter</meaning>
+		</definition>
+	</card>
+</flashcards>

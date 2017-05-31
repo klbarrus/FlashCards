@@ -1,0 +1,486 @@
+<flashcards>
+	<card id = "1">
+		<character>
+			<simplified>天气</simplified>
+		</character>
+		<pinyin>tiānqì</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>weather</meaning>
+		</definition>
+	</card>
+	<card id = "2">
+		<character>
+			<simplified>比</simplified>
+		</character>
+		<pinyin>bǐ</pinyin>
+		<definition>
+			<grammar>prep</grammar>
+			<meaning>comparison marker</meaning>
+		</definition>
+	</card>
+	<card id = "3">
+		<character>
+			<simplified>下雨</simplified>
+		</character>
+		<pinyin>xià yǔ</pinyin>
+		<definition>
+			<grammar>vo</grammar>
+			<meaning>to rain</meaning>
+		</definition>
+	</card>
+	<card id = "4">
+		<character>
+			<simplified>报上</simplified>
+		</character>
+		<pinyin>bàoshang</pinyin>
+		<definition>
+			<grammar></grammar>
+			<meaning>in the newspaper</meaning>
+		</definition>
+	</card>
+	<card id = "5">
+		<character>
+			<simplified>预报</simplified>
+		</character>
+		<pinyin>yùbào</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>forecast</meaning>
+		</definition>
+	</card>
+	<card id = "6">
+		<character>
+			<simplified>更</simplified>
+		</character>
+		<pinyin>gèng</pinyin>
+		<definition>
+			<grammar>adv</grammar>
+			<meaning>even more</meaning>
+		</definition>
+	</card>
+	<card id = "7">
+		<character>
+			<simplified>不但。。。而且</simplified>
+		</character>
+		<pinyin>búdàn… érqiě</pinyin>
+		<definition>
+			<grammar>conj</grammar>
+			<meaning>not only… but also</meaning>
+		</definition>
+	</card>
+	<card id = "8">
+		<character>
+			<simplified>会</simplified>
+		</character>
+		<pinyin>hui</pinyin>
+		<definition>
+			<grammar>av</grammar>
+			<meaning>will</meaning>
+		</definition>
+	</card>
+	<card id = "9">
+		<character>
+			<simplified>暖和</simplified>
+		</character>
+		<pinyin>nuǎnhuo</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>warm</meaning>
+		</definition>
+	</card>
+	<card id = "10">
+		<character>
+			<simplified>一点儿</simplified>
+		</character>
+		<pinyin>yìdiǎnr</pinyin>
+		<definition>
+			<grammar></grammar>
+			<meaning>a bit</meaning>
+		</definition>
+	</card>
+	<card id = "11">
+		<character>
+			<simplified>约</simplified>
+		</character>
+		<pinyin>yuē</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to make an appointment</meaning>
+		</definition>
+	</card>
+	<card id = "12">
+		<character>
+			<simplified>公园</simplified>
+		</character>
+		<pinyin>gōngyuán</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>park</meaning>
+		</definition>
+	</card>
+	<card id = "13">
+		<character>
+			<simplified>红叶</simplified>
+		</character>
+		<pinyin>hóngyè</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>red autumn leaves</meaning>
+		</definition>
+	</card>
+	<card id = "14">
+		<character>
+			<simplified>怎么办</simplified>
+		</character>
+		<pinyin>zěnmebàn</pinyin>
+		<definition>
+			<grammar>qw</grammar>
+			<meaning>what to do</meaning>
+		</definition>
+	</card>
+	<card id = "15">
+		<character>
+			<simplified>录像</simplified>
+		</character>
+		<pinyin>lùxiàng</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>video recording</meaning>
+		</definition>
+	</card>
+	<card id = "16">
+		<character>
+			<simplified>谢</simplified>
+		</character>
+		<pinyin>xiè</pinyin>
+		<definition>
+			<grammar>N</grammar>
+			<meaning>(a surname)</meaning>
+		</definition>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to thank</meaning>
+		</definition>
+	</card>
+	<card id = "17">
+		<character>
+			<simplified>上海</simplified>
+		</character>
+		<pinyin>shànghǎi</pinyin>
+		<definition>
+			<grammar>N</grammar>
+			<meaning>Shanghai</meaning>
+		</definition>
+	</card>
+	<card id = "18">
+		<character>
+			<simplified>海</simplified>
+		</character>
+		<pinyin>hǎi</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>sea; ocean</meaning>
+		</definition>
+	</card>
+	<card id = "19">
+		<character>
+			<simplified>糟糕</simplified>
+		</character>
+		<pinyin>zāogāo</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>in a terrible mess; too bad</meaning>
+		</definition>
+	</card>
+	<card id = "20">
+		<character>
+			<simplified>又</simplified>
+		</character>
+		<pinyin>yòu</pinyin>
+		<definition>
+			<grammar>adv</grammar>
+			<meaning>again</meaning>
+		</definition>
+	</card>
+	<card id = "21">
+		<character>
+			<simplified>刚才</simplified>
+		</character>
+		<pinyin>gāngcái</pinyin>
+		<definition>
+			<grammar>t</grammar>
+			<meaning>just now; a short moment ago</meaning>
+		</definition>
+	</card>
+	<card id = "22">
+		<character>
+			<simplified>出去</simplified>
+		</character>
+		<pinyin>chūqu</pinyin>
+		<definition>
+			<grammar>vc</grammar>
+			<meaning>to go out</meaning>
+		</definition>
+	</card>
+	<card id = "23">
+		<character>
+			<simplified>热</simplified>
+		</character>
+		<pinyin>rè</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>hot</meaning>
+		</definition>
+	</card>
+	<card id = "24">
+		<character>
+			<simplified>舒服</simplified>
+		</character>
+		<pinyin>shūfu</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>comfortable</meaning>
+		</definition>
+	</card>
+	<card id = "25">
+		<character>
+			<simplified>夏天</simplified>
+		</character>
+		<pinyin>xiàtiān</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>summer</meaning>
+		</definition>
+	</card>
+	<card id = "26">
+		<character>
+			<simplified>这样</simplified>
+		</character>
+		<pinyin>zhèyàng</pinyin>
+		<definition>
+			<grammar>pr</grammar>
+			<meaning>so; like this</meaning>
+		</definition>
+	</card>
+	<card id = "27">
+		<character>
+			<simplified>凉快</simplified>
+		</character>
+		<pinyin>liángkuai</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>pleasantly cool (weather)</meaning>
+		</definition>
+	</card>
+	<card id = "28">
+		<character>
+			<simplified>春天</simplified>
+		</character>
+		<pinyin>chūntiān</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>spring</meaning>
+		</definition>
+	</card>
+	<card id = "29">
+		<character>
+			<simplified>冬天</simplified>
+		</character>
+		<pinyin>dōngtiān</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>winter</meaning>
+		</definition>
+	</card>
+	<card id = "30">
+		<character>
+			<simplified>又。。。又</simplified>
+		</character>
+		<pinyin>yòu… yòu</pinyin>
+		<definition>
+			<grammar></grammar>
+			<meaning>both… and… </meaning>
+		</definition>
+	</card>
+	<card id = "31">
+		<character>
+			<simplified>冷</simplified>
+		</character>
+		<pinyin>lěng</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>cold</meaning>
+		</definition>
+	</card>
+	<card id = "32">
+		<character>
+			<simplified>闷</simplified>
+		</character>
+		<pinyin>mēn</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>stuffy</meaning>
+		</definition>
+	</card>
+	<card id = "33">
+		<character>
+			<simplified>下次</simplified>
+		</character>
+		<pinyin>xià cì</pinyin>
+		<definition>
+			<grammar></grammar>
+			<meaning>next time</meaning>
+		</definition>
+	</card>
+	<card id = "34">
+		<character>
+			<simplified>次</simplified>
+		</character>
+		<pinyin>cì</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>time; (a measure word for occurrence)</meaning>
+		</definition>
+	</card>
+	<card id = "35">
+		<character>
+			<simplified>最好</simplified>
+		</character>
+		<pinyin>zuìhǎo</pinyin>
+		<definition>
+			<grammar>adv</grammar>
+			<meaning>had better</meaning>
+		</definition>
+	</card>
+	<card id = "36">
+		<character>
+			<simplified>秋天</simplified>
+		</character>
+		<pinyin>qiūtiān</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>autumn; fall</meaning>
+		</definition>
+	</card>
+	<card id = "37">
+		<character>
+			<simplified>台北</simplified>
+		</character>
+		<pinyin>táiběi</pinyin>
+		<definition>
+			<grammar>N</grammar>
+			<meaning>Taipei</meaning>
+		</definition>
+	</card>
+	<card id = "38">
+		<character>
+			<simplified>台湾</simplified>
+		</character>
+		<pinyin>táiwān</pinyin>
+		<definition>
+			<grammar>N</grammar>
+			<meaning>Taiwan</meaning>
+		</definition>
+	</card>
+	<card id = "39">
+		<character>
+			<simplified>潮湿</simplified>
+		</character>
+		<pinyin>cháoshī</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>wet; humid</meaning>
+		</definition>
+	</card>
+	<card id = "40">
+		<character>
+			<simplified>云</simplified>
+		</character>
+		<pinyin>yún</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>cloud</meaning>
+		</definition>
+	</card>
+	<card id = "41">
+		<character>
+			<simplified>雪</simplified>
+		</character>
+		<pinyin>xuě</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>snow</meaning>
+		</definition>
+	</card>
+	<card id = "42">
+		<character>
+			<simplified>晴</simplified>
+		</character>
+		<pinyin>qíng</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>sunny; clear</meaning>
+		</definition>
+	</card>
+	<card id = "43">
+		<character>
+			<simplified>阴</simplified>
+		</character>
+		<pinyin>yīn</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>overcast</meaning>
+		</definition>
+	</card>
+	<card id = "44">
+		<character>
+			<simplified>台中</simplified>
+		</character>
+		<pinyin>táizhōng</pinyin>
+		<definition>
+			<grammar>N</grammar>
+			<meaning>Taichung (city in Taiwan)</meaning>
+		</definition>
+	</card>
+	<card id = "45">
+		<character>
+			<simplified>加拿大</simplified>
+		</character>
+		<pinyin>jiānádà</pinyin>
+		<definition>
+			<grammar>N</grammar>
+			<meaning>Canada</meaning>
+		</definition>
+	</card>
+	<card id = "46">
+		<character>
+			<simplified>温哥华</simplified>
+		</character>
+		<pinyin>wēngēhuá</pinyin>
+		<definition>
+			<grammar>N</grammar>
+			<meaning>Vancouver</meaning>
+		</definition>
+	</card>
+	<card id = "47">
+		<character>
+			<simplified>香港</simplified>
+		</character>
+		<pinyin>xiānggǎng</pinyin>
+		<definition>
+			<grammar>N</grammar>
+			<meaning>Hong Kong</meaning>
+		</definition>
+	</card>
+	<card id = "48">
+		<character>
+			<simplified>北京</simplified>
+		</character>
+		<pinyin>běijīng</pinyin>
+		<definition>
+			<grammar>N</grammar>
+			<meaning>Beijing</meaning>
+		</definition>
+	</card>
+</flashcards>

@@ -1,0 +1,562 @@
+<flashcards>
+	<card id = "1">
+		<character>
+			<simplified>买</simplified>
+		</character>
+		<pinyin>mǎi</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to buy</meaning>
+		</definition>
+	</card>
+	<card id = "2">
+		<character>
+			<simplified>东西</simplified>
+		</character>
+		<pinyin>dōngxi</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>things; object</meaning>
+		</definition>
+	</card>
+	<card id = "3">
+		<character>
+			<simplified>售货员</simplified>
+		</character>
+		<pinyin>shòuhuòyuán</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>shop assistant; salesclerk</meaning>
+		</definition>
+	</card>
+	<card id = "4">
+		<character>
+			<simplified>要</simplified>
+		</character>
+		<pinyin>yào</pinyin>
+		<definition>
+			<grammar>av</grammar>
+			<meaning>to want to; to have a desire for</meaning>
+		</definition>
+	</card>
+	<card id = "5">
+		<character>
+			<simplified>衣服</simplified>
+		</character>
+		<pinyin>yīfu</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>clothes</meaning>
+		</definition>
+	</card>
+	<card id = "6">
+		<character>
+			<simplified>件</simplified>
+		</character>
+		<pinyin>jiàn</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>(shirts, dresses, jackets, coats, etc.)</meaning>
+		</definition>
+	</card>
+	<card id = "7">
+		<character>
+			<simplified>衬衫</simplified>
+		</character>
+		<pinyin>chènshān</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>shirt</meaning>
+		</definition>
+	</card>
+	<card id = "8">
+		<character>
+			<simplified>颜色</simplified>
+		</character>
+		<pinyin>yánsè</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>color</meaning>
+		</definition>
+	</card>
+	<card id = "9">
+		<character>
+			<simplified>黄</simplified>
+		</character>
+		<pinyin>huáng</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>yellow</meaning>
+		</definition>
+	</card>
+	<card id = "10">
+		<character>
+			<simplified>红</simplified>
+		</character>
+		<pinyin>hóng</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>red</meaning>
+		</definition>
+	</card>
+	<card id = "11">
+		<character>
+			<simplified>穿</simplified>
+		</character>
+		<pinyin>chuān</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to wear; to put on</meaning>
+		</definition>
+	</card>
+	<card id = "12">
+		<character>
+			<simplified>条</simplified>
+		</character>
+		<pinyin>tiáo</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>(long, thin objects)</meaning>
+		</definition>
+	</card>
+	<card id = "13">
+		<character>
+			<simplified>裤子</simplified>
+		</character>
+		<pinyin>kùzi</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>pants</meaning>
+		</definition>
+	</card>
+	<card id = "14">
+		<character>
+			<simplified>号</simplified>
+		</character>
+		<pinyin>hào</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>number; size</meaning>
+		</definition>
+	</card>
+	<card id = "15">
+		<character>
+			<simplified>中</simplified>
+		</character>
+		<pinyin>zhōng</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>medium</meaning>
+		</definition>
+	</card>
+	<card id = "16">
+		<character>
+			<simplified>贵</simplified>
+		</character>
+		<pinyin>guì</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>expensive</meaning>
+		</definition>
+	</card>
+	<card id = "17">
+		<character>
+			<simplified>便宜</simplified>
+		</character>
+		<pinyin>piányi</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>cheap; inexpensive</meaning>
+		</definition>
+	</card>
+	<card id = "18">
+		<character>
+			<simplified>付钱</simplified>
+		</character>
+		<pinyin>fùqián</pinyin>
+		<definition>
+			<grammar>vo</grammar>
+			<meaning>to pay money</meaning>
+		</definition>
+	</card>
+	<card id = "19">
+		<character>
+			<simplified>这儿</simplified>
+		</character>
+		<pinyin>zhèr</pinyin>
+		<definition>
+			<grammar>pr</grammar>
+			<meaning>here</meaning>
+		</definition>
+	</card>
+	<card id = "20">
+		<character>
+			<simplified>一共</simplified>
+		</character>
+		<pinyin>yígòng</pinyin>
+		<definition>
+			<grammar>adv</grammar>
+			<meaning>altogether</meaning>
+		</definition>
+	</card>
+	<card id = "21">
+		<character>
+			<simplified>多少</simplified>
+		</character>
+		<pinyin>duōshao</pinyin>
+		<definition>
+			<grammar>qw</grammar>
+			<meaning>how much; how many</meaning>
+		</definition>
+	</card>
+	<card id = "22">
+		<character>
+			<simplified>块</simplified>
+		</character>
+		<pinyin>kuài</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>colloquial term for basic Chinese monetary unit</meaning>
+		</definition>
+	</card>
+	<card id = "23">
+		<character>
+			<simplified>毛</simplified>
+		</character>
+		<pinyin>máo</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>1/10th of a kuai (similar to U.S. dime)</meaning>
+		</definition>
+	</card>
+	<card id = "24">
+		<character>
+			<simplified>分</simplified>
+		</character>
+		<pinyin>fēn</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>1/100th of a kaui, cent</meaning>
+		</definition>
+	</card>
+	<card id = "25">
+		<character>
+			<simplified>百</simplified>
+		</character>
+		<pinyin>bǎi</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>hundred</meaning>
+		</definition>
+	</card>
+	<card id = "26">
+		<character>
+			<simplified>找（钱）</simplified>
+		</character>
+		<pinyin>zhǎo (qián)</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to give change</meaning>
+		</definition>
+	</card>
+	<card id = "27">
+		<character>
+			<simplified>双</simplified>
+		</character>
+		<pinyin>shuāng</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>a pair of</meaning>
+		</definition>
+	</card>
+	<card id = "28">
+		<character>
+			<simplified>鞋</simplified>
+		</character>
+		<pinyin>xié</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>shoes</meaning>
+		</definition>
+	</card>
+	<card id = "29">
+		<character>
+			<simplified>换</simplified>
+		</character>
+		<pinyin>huàn</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to change; to exchange</meaning>
+		</definition>
+	</card>
+	<card id = "30">
+		<character>
+			<simplified>一样</simplified>
+		</character>
+		<pinyin>yíyàng</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>same; alike</meaning>
+		</definition>
+	</card>
+	<card id = "31">
+		<character>
+			<simplified>虽然</simplified>
+		</character>
+		<pinyin>suīrán</pinyin>
+		<definition>
+			<grammar>conj</grammar>
+			<meaning>although</meaning>
+		</definition>
+	</card>
+	<card id = "32">
+		<character>
+			<simplified>大小</simplified>
+		</character>
+		<pinyin>dàxiǎo</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>size</meaning>
+		</definition>
+	</card>
+	<card id = "33">
+		<character>
+			<simplified>合适</simplified>
+		</character>
+		<pinyin>héshì</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>suitable</meaning>
+		</definition>
+	</card>
+	<card id = "34">
+		<character>
+			<simplified>咖啡色</simplified>
+		</character>
+		<pinyin>kāfēisè</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>coffee color; brown</meaning>
+		</definition>
+	</card>
+	<card id = "35">
+		<character>
+			<simplified>黑</simplified>
+		</character>
+		<pinyin>hēi</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>black</meaning>
+		</definition>
+	</card>
+	<card id = "36">
+		<character>
+			<simplified>不用</simplified>
+		</character>
+		<pinyin>búyòng</pinyin>
+		<definition>
+			<grammar>ce</grammar>
+			<meaning>need not</meaning>
+		</definition>
+	</card>
+	<card id = "37">
+		<character>
+			<simplified>卖</simplified>
+		</character>
+		<pinyin>mài</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to sell</meaning>
+		</definition>
+	</card>
+	<card id = "38">
+		<character>
+			<simplified>裙子</simplified>
+		</character>
+		<pinyin>qúnzi</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>skirt</meaning>
+		</definition>
+	</card>
+	<card id = "39">
+		<character>
+			<simplified>大衣</simplified>
+		</character>
+		<pinyin>dàyī</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>overcoat</meaning>
+		</definition>
+	</card>
+	<card id = "40">
+		<character>
+			<simplified>夹克</simplified>
+		</character>
+		<pinyin>jiákè</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>jacket</meaning>
+		</definition>
+	</card>
+	<card id = "41">
+		<character>
+			<simplified>外套</simplified>
+		</character>
+		<pinyin>wàitào</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>coat; jacket</meaning>
+		</definition>
+	</card>
+	<card id = "42">
+		<character>
+			<simplified>西装</simplified>
+		</character>
+		<pinyin>xīzhuāng</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>suit</meaning>
+		</definition>
+	</card>
+	<card id = "43">
+		<character>
+			<simplified>毛衣</simplified>
+		</character>
+		<pinyin>máoyī</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>sweater</meaning>
+		</definition>
+	</card>
+	<card id = "44">
+		<character>
+			<simplified>T-恤衫</simplified>
+		</character>
+		<pinyin>T-xùshān</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>T-shirt</meaning>
+		</definition>
+	</card>
+	<card id = "45">
+		<character>
+			<simplified>戴</simplified>
+		</character>
+		<pinyin>dài</pinyin>
+		<definition>
+			<grammar>v</grammar>
+			<meaning>to wear (hat, eyeglasses, etc.)</meaning>
+		</definition>
+	</card>
+	<card id = "46">
+		<character>
+			<simplified>帽子</simplified>
+		</character>
+		<pinyin>màozi</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>hat</meaning>
+		</definition>
+	</card>
+	<card id = "47">
+		<character>
+			<simplified>顶</simplified>
+		</character>
+		<pinyin>dǐng</pinyin>
+		<definition>
+			<grammar>m</grammar>
+			<meaning>(for hats)</meaning>
+		</definition>
+	</card>
+	<card id = "48">
+		<character>
+			<simplified>袜子</simplified>
+		</character>
+		<pinyin>wàzi</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>socks</meaning>
+		</definition>
+	</card>
+	<card id = "49">
+		<character>
+			<simplified>长</simplified>
+		</character>
+		<pinyin>cháng</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>long</meaning>
+		</definition>
+	</card>
+	<card id = "50">
+		<character>
+			<simplified>短</simplified>
+		</character>
+		<pinyin>duǎn</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>short</meaning>
+		</definition>
+	</card>
+	<card id = "51">
+		<character>
+			<simplified>蓝</simplified>
+		</character>
+		<pinyin>lán</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>blue</meaning>
+		</definition>
+	</card>
+	<card id = "52">
+		<character>
+			<simplified>绿</simplified>
+		</character>
+		<pinyin>lǜ</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>green</meaning>
+		</definition>
+	</card>
+	<card id = "53">
+		<character>
+			<simplified>紫</simplified>
+		</character>
+		<pinyin>zǐ</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>purple</meaning>
+		</definition>
+	</card>
+	<card id = "54">
+		<character>
+			<simplified>粉红色</simplified>
+		</character>
+		<pinyin>fěnhóngsè</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>pink</meaning>
+		</definition>
+	</card>
+	<card id = "55">
+		<character>
+			<simplified>橘红色</simplified>
+		</character>
+		<pinyin>júhóngsè</pinyin>
+		<definition>
+			<grammar>n</grammar>
+			<meaning>orange</meaning>
+		</definition>
+	</card>
+	<card id = "56">
+		<character>
+			<simplified>灰</simplified>
+		</character>
+		<pinyin>huī</pinyin>
+		<definition>
+			<grammar>adj</grammar>
+			<meaning>grey</meaning>
+		</definition>
+	</card>
+</flashcards>
